@@ -48,7 +48,7 @@ Complete Functional BDD test coverage of the project.and live documentation
 Functional and Regression test results and report for each project release.
 #### Release version 1.1
 * [Functional Test Results and Bug Report 1.1](/qa/1.1testresults.pdf) 
-* [Regression Test Results 1.1](/qa/1.1regressiontestresult.pdf)
+* [Regression Test Results 1.1](https://samantarp.atlassian.net/projects/SCRUM?selectedItem=com.atlassian.plugins.atlassian-connect-plugin:com.kanoah.test-manager__main-project-page#!/v2/testCases?projectId=10000)
 
 #### Release version 1.2
 * [Functional Test Results and Bug Report 1.2](/qa/1.2testresults.pdf)
