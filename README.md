@@ -36,19 +36,19 @@ This project adopts BDD Methodology for testing.
 SonarQube Static Test Analisys Result.
 
 ### REGRESSION TEST PLAN
-[Regression Test Plan](/test-plan/regression-test-plan.pdf)
+[Regression Test Plan](/tests-plans/regression-test-plan.pdf)
 Complete Regression Test Plan of the project.
 
 ### TEST COVERAGE AND LIVE DOCUMENTATION
-[BDD Test Coverage](/test-plan/functional-test-and-bdd-coverage.pdf)
+[BDD Test Coverage](/tests-plans/functional-test-and-bdd-coverage.pdf)
 Complete Functional BDD test coverage of the project.and live documentation
 
 
 ### TEST RESULTS
 Functional and Regression test results and report for each project release.
 #### Release version 1.1
-* [Functional Test Results and Bug Report 1.1](/tests-result/funtional-test-and-bug-report-release-1.1.pdf) 
-* [Regression Test Results 1.1](/tests-result/regression-test-results-release-1.1.pdf)
+* [Functional Test Results and Bug Report 1.1](/tests-result/funtional-test-and-bug-report-release.pdf) 
+* [Regression Test Results 1.1](/tests-result/regression-test-results-release.pdf)
 
 #### Release version 1.2
 * [Functional Test Results and Bug Report 1.2](/qa/1.2testresults.pdf)
