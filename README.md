@@ -35,28 +35,25 @@ This project adopts BDD Methodology for testing.
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Orgazation-Samanta-Ramos_CVPROJECT&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Orgazation-Samanta-Ramos_CVPROJECT)
 SonarQube Static Test Analisys Result.
 
-### TEST PLAN
-[Regression Test Plan](/qa/regressiontestplan.pdf)
+### REGRESSION TEST PLAN
+[Regression Test Plan](/test-plan/regression-test-plan.pdf)
 Complete Regression Test Plan of the project.
 
 ### TEST COVERAGE AND LIVE DOCUMENTATION
-[BDD Test Coverage](/qa/bddtestcoverage.pdf)
+[BDD Test Coverage](/test-plan/functional-test-plan-and-bdd-coverage.pdf)
 Complete Functional BDD test coverage of the project.and live documentation
 
 
 ### TEST RESULTS
 Functional and Regression test results and report for each project release.
 #### Release version 1.1
-* [Functional Test Results and Bug Report 1.1](https://samantarp.atlassian.net/projects/SCRUM?selectedItem=com.atlassian.plugins.atlassian-connect-plugin:com.kanoah.test-manager__main-project-page#!/v2/testCycles?projectId=10000) 
-* [Regression Test Results 1.1](https://samantarp.atlassian.net/projects/SCRUM?selectedItem=com.atlassian.plugins.atlassian-connect-plugin:com.kanoah.test-manager__main-project-page#!/v2/testCases?projectId=10000)
+* [Functional Test Results and Bug Report 1.1](/tests-result/funtional-test-and-bug-report-release-1.1.pdf) 
+* [Regression Test Results 1.1](/tests-result/regression-test-results-release-1.1.pdf)
 
 #### Release version 1.2
 * [Functional Test Results and Bug Report 1.2](/qa/1.2testresults.pdf)
 * [Regression Test Results 1.2](/qa/1.2regressiontestresult.pdf)
 
-#### Release version 1.3
-* [Functional Test Results and Bug Report 1.3](/qa/1.3testresults.pdf)
-* [Regression Test Results 1.3](/qa/1.3regressiontestresult.pdf)
 
 ## AUTHOR
 Samanta Ramos Podadera, QA Engineer
